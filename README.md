@@ -1,6 +1,8 @@
-<h2 align="left">Hello! I'm Gustavo Border Dev From Brazil, Current Living In Ireland.</h2>
+<h2 align="left">Hello! I'm Gustavo Border Dev From Brazil, current living in Ireland.</h2>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=gborder" height="150" alt="stats graph"  />
@@ -43,6 +45,6 @@
 
 <br clear="both">
 
-<img href="https://github.com/gborder/gborder/blob/output/snake.gif" alt="Snake animation" />
+<img href="https://raw.githubusercontent.com/gborder/gborder/blob/output/snake.svg" alt="Snake animation" />
 
 ###
