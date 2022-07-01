@@ -45,6 +45,6 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/gborder/gborder/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://github.com/gborder/gborder/raw/main/.github/workflows/snake.yml" alt="Snake animation" />
 
 ###
