@@ -1,4 +1,4 @@
-<h2 align="left">Hello! I'm Gustavo Border Dev From Brazil, current living in Ireland.</h2>
+<h2 align="left">Hello! I'm Gustavo Border, Apprentice Dev, current living in Ireland.</h2>
 
 ###
 
